@@ -39,7 +39,7 @@ Este repositorio resume una pieza de producto pensada para explicar el problema,
 | Complejidad | Beginner |
 | Lenguaje principal | HTML |
 | Primera version | 9 de mayo de 2026 |
-| Ultima actualizacion | 12 de mayo de 2026 |
+| Ultima actualizacion | 21 de mayo de 2026 |
 
 ## Enlaces
 
